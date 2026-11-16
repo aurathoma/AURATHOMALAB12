@@ -93,3 +93,7 @@ Duration: 24.4s
 
 0 errors ✔ | 0 warnings ✔ | 0 notes ✔
 
+Shiny
+
+ https://aura-overbooking.shinyapps.io/aurathoma_app5/
+  https://aura-overbooking.shinyapps.io/aurathoma_app3/
